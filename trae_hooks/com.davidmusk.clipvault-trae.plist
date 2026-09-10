@@ -7,7 +7,7 @@
   <key>ProgramArguments</key>
   <array>
     <string>/Users/bytedance/Library/Application Support/Keepsake/trae-hooks-venv/bin/python</string>
-    <string>/Users/bytedance/Documents/trae_projects/recallfs/projects/ClipView/trae_hooks/server.py</string>
+    <string>/Users/bytedance/Documents/trae_projects/recallfs/projects/clipvault/trae_hooks/server.py</string>
     <string>--home</string>
     <string>/Users/bytedance/Documents/ClipFlow</string>
   </array>
